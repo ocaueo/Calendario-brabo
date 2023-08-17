@@ -36,5 +36,3 @@ for(let i = 0; i < 12; i++){
 for(let i = 2023; i >= 1923; i--){
     anos.innerHTML += `<option value="${i}">${i}</option>`;
 }
-
-
